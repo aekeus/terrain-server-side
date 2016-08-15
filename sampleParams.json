@@ -1,0 +1,14 @@
+{
+    "extent": {
+        "width": 1,
+        "height": 0.5
+    },
+    "npts": 16384,
+    "ncities": 25,
+    "nterrs": 5,
+    "fontsizes": {
+        "region": 40,
+        "city": 25,
+        "town": 20
+    }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "terrain-server-side",
+  "version": "1.0.0",
+  "description": "Terrain server side rendered",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Aubrey Keus <aekeus@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "d3": "^4.2.1",
+    "js-priority-queue": "^0.1.5",
+    "jsdom": "^9.4.2",
+    "underscore": "^1.8.3",
+    "yargs": "^4.8.1"
+  }
+}
